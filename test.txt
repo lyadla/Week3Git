@@ -1,8 +1,4 @@
 Hi Hello Good Morning My name is alpha beta gamma.
-
+--------------------------------------------------
 This is a testing session
-:wq
-:wq
-::wq
-cat test.txt
-
+--------------------------------------------------
